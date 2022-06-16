@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Bob-AT
 - 👀 I’m interested in Lua game modes for Ground Branch
-- 📫 How to reach me ... via E-mail or Discord `bob/AT#2136`
+- GB game mode collection: <https://www.nexusmods.com/groundbranch/mods/31>
+- How to reach me ... 
+  - via Discord `bob/AT` in the GB game mode collection Discord <https://discord.gg/n3DjkQbHV5>
+  - via Discord `bob/AT` in the official Ground Branch Discord <http://bit.ly/gb-discord>
+  - via Twitter DM
+  - via Email if you don't have Discord
 
 <!---
 Bob-AT/Bob-AT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
