@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lua game modes for Ground Branch
 - GB game mode collection: <https://www.nexusmods.com/groundbranch/mods/31>
 - How to reach me ... 
-  - via Discord `bob/AT` in the GB game mode collection Discord <https://discord.gg/n3DjkQbHV5>
+  - via Discord `bob/AT` in the GB game mode collection Discord <https://discord.gg/MaeMSrYDJa>
   - via Discord `bob/AT` in the official Ground Branch Discord <http://bit.ly/gb-discord>
   - via Twitter DM
   - via Email if you don't have Discord
